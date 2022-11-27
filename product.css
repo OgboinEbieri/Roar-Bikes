@@ -19,13 +19,14 @@
     margin-left: 19.4em;
     display: inline; 
 }
-.fa-cart-shopping{
+/* .fa-cart-shopping{
   font-size: x-large;
    position: absolute;
    margin-left: 3em;
    margin: 3px 0 0 220px;
+   display: none;
    
-}
+} */
   #drop-down{
     display: none;
   }
